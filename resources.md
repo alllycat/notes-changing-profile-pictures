@@ -18,3 +18,4 @@ https://github.com/hongkhanh/cropbox
 * sending requests would be very slow (individually)
 * only solution (so far) is to store links in mysql database, load upon loading page BUT, permissions are needed for every single one
 * another solution: don't get photos from connect. allow user to upload their own photos???
+* get image by hashing e-mail to img?
