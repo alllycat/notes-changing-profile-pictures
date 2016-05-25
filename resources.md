@@ -8,3 +8,11 @@ https://codepen.io/JonasB/pen/CiLhw
 
 ## JavaScript/JQuery/YUI Plugin
 https://github.com/hongkhanh/cropbox
+
+## Restrictions
+* no access to file storage in bluemix 
+* Next best thing would be to use a database (mysql)
+* need to get photos from connect
+* connect needs authorization
+* sending requests would be very slow (individually)
+* only solution (so far) is to store links in mysql database, load upon loading page BUT, permissions are needed for every single one
